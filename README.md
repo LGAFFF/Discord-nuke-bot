@@ -21,7 +21,7 @@ A high-performance Discord administrative framework designed for advanced server
 ### 2. Installation
 Clone the repository and install the required dependencies:
 ```bash
-git clone [https://github.com/your-username/aegis-system.git](https://github.com/your-username/aegis-system.git)
+git clone [https://github.com/lgafff/aegis-system.git](https://github.com/your-username/aegis-system.git)
 cd aegis-system
 npm install
 
